@@ -124,3 +124,9 @@
 /* svg chart text */
 svg text { font-family: var(--sans); }
 .chart-axis { font-size: 10.5px; fill: var(--ink-3); }
+
+/* small screens: long item rows wrap their trailing controls to a second line */
+@media (max-width: 560px) {
+  .rowline, .billmini { flex-wrap: wrap; }
+  .rowline > .grow, .billmini > .grow { flex: 1 1 100%; margin-bottom: 5px; }
+}
