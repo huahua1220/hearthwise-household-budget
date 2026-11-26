@@ -1,5 +1,7 @@
 # STATUS — ready for bundle/check/submit
 
+> 2026-11-26: README badge owner/repo filled (huahua1220/hearthwise-household-budget) and pushed to GitHub.
+
 **Built:** Hearthwise — a household budget site. Vanilla ES modules, no framework,
 no network references, all charts hand-drawn inline SVG, localStorage persistence
 (`hearthwise.v1`), original identity (spruce/cream/copper, serif headings, invented

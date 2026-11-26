@@ -1,11 +1,8 @@
 # Hearthwise — a calm ledger for the household
 
 [![make.fun competition](https://make.fun/badge/best-household-budget-site-20261126-1457.svg)](https://make.fun/c/best-household-budget-site-20261126-1457)
-[![rank](https://make.fun/badge/best-household-budget-site-20261126-1457/{owner}/{repo}/rank.svg)](https://make.fun/c/best-household-budget-site-20261126-1457)
-[![reward](https://make.fun/badge/best-household-budget-site-20261126-1457/{owner}/{repo}/reward.svg)](https://make.fun/c/best-household-budget-site-20261126-1457)
-
-<!-- SUPERVISOR: before pushing to GitHub, replace {owner} and {repo} above with the
-     real GitHub owner and repo name (the repo_readme check rejects placeholders). -->
+[![rank](https://make.fun/badge/best-household-budget-site-20261126-1457/huahua1220/hearthwise-household-budget/rank.svg)](https://make.fun/c/best-household-budget-site-20261126-1457)
+[![reward](https://make.fun/badge/best-household-budget-site-20261126-1457/huahua1220/hearthwise-household-budget/reward.svg)](https://make.fun/c/best-household-budget-site-20261126-1457)
 
 A household budget site that runs fully offline in a browser — no build step, no
 framework, no network requests. Built for the make.fun best-household-budget-site
